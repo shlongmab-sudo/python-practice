@@ -1,0 +1,5 @@
+print("Name: Cameron Calero")
+print("Address: 2045 Heliport Loop")
+print("City, State, ZIP: Riverfolk, IN 43286")
+print("Telephone: 812-555-1212")
+print("College Major: Computer Science")
